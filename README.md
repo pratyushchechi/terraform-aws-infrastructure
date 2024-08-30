@@ -1,4 +1,3 @@
-# terraform-aws-infrastructure
 # Terraform AWS Infrastructure
 
 ## Project Overview
